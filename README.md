@@ -10,7 +10,7 @@ L'utilisateur choisit la longueur de son mot de passe, s'il contient des majuscu
 
 ## Aperçu 
 
-capture.png
+![Alt text](images/captures.png)   
 
 ## Concepts utilisés
 
