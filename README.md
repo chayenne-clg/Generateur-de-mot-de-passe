@@ -8,6 +8,10 @@ Programme Python permettant de générer des mots de passe personnalisés et al�
 
 L'utilisateur choisit la longueur de son mot de passe, s'il contient des majuscules, des chiffres et des caractères. Le mot de passe est alors généré aléatoirement en fonction des critères choisi par l'utilisateur.
 
+## Aperçu 
+
+capture.png
+
 ## Concepts utilisés
 
 - Conditions
